@@ -10,7 +10,7 @@ I love turning ideas into efficient, maintainable software.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Banco Economico SA [![Banco Economico SA.](https://img.shields.io/badge/Mi_Compañía-007bff?style=for-the-badge)](https://www.baneco.com.bo).
+- 🔭 I’m currently working on [Banco Economico](https://baneco.com.bo).
 
 - `https://img.shields.io/badge/<TEXT>-<COLOR>?style=for-the-badge&logo=<SIMPLE_ICONS_ID>&logoColor=<COLOR_DEL_LOGO>`
 - 🌱 I’m currently learning ...
