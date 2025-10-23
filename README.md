@@ -9,7 +9,7 @@ I love turning ideas into efficient, maintainable software.
 <!--**rdariopv/rdariopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<!--
 ### 💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet)
@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 ![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-4B0082?logo=dotnet&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-008000?logo=codeforces&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00BFAE?logo=microsoft-azure&logoColor=white)
-
+-->
 
 - 🔭 I’m currently working on [Banco Economico SA](https://baneco.com.bo).
 <!--[![BANCO ECONOMICO SA.](https://img.shields.io/badge/BANCO_ECONOMICO_SA.-D43030?style=for-the-badge&logoColor=white)](https://www.baneco.com.bo/)-->
