@@ -1,7 +1,7 @@
 
-<!--<h1 align="center">Hi 👋, I'm RDario PV</h1> -->
+<h1 align="center">Hi👋, I'm RDario PV — Software Engineer</h1> 
 
-## Hi👋, I'm RDario PV — Software Engineer
+<!--## Hi👋, I'm RDario PV — Software Engineer-->
 
 Passionate about building scalable backend systems, clean architectures, and connected IoT solutions.  
 I love turning ideas into efficient, maintainable software.
