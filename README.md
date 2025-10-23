@@ -6,12 +6,11 @@
 Passionate about building scalable backend systems, clean architectures, and connected IoT solutions.  
 I love turning ideas into efficient, maintainable software.
 
-**rdariopv/rdariopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**rdariopv/rdariopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [Banco Economico SA](https://baneco.com.bo).
-- # Ejemplo con un icono de finanzas (he usado 'stripe' por su ícono minimalista)
 [![BANCO ECONOMICO SA.](https://img.shields.io/badge/BANCO_ECONOMICO_SA.-D43030?style=for-the-badge&logoColor=white)](https://www.baneco.com.bo/)
 
 
