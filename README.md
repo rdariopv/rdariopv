@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Banco Economico SA](https://baneco.com.bo).
 
 - # Ejemplo con un icono de finanzas (he usado 'stripe' por su ícono minimalista)
-[![BANECO](https://img.shields.io/badge/Trabajo%20en-BANECO-004792?style=for-the-badge)](https://www.baneco.com.bo/)
+[![BANCO ECONOCMICO SA.](https://img.shields.io/badge/BANECO-004792?style=for-the-badge)](https://www.baneco.com.bo/)
 
 - `https://img.shields.io/badge/<TEXT>-<COLOR>?style=for-the-badge&logo=<SIMPLE_ICONS_ID>&logoColor=<COLOR_DEL_LOGO>`
 - 🌱 I’m currently learning ...
