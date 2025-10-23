@@ -1,13 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm RDario PV</h1>
-<!--
+<!--<h1 align="center">Hi 👋, I'm RDario PV</h1> -->
+
 ## Hi👋, I'm RDario PV — Software Engineer
+
+Passionate about building scalable backend systems, clean architectures, and connected IoT solutions.  
+I love turning ideas into efficient, maintainable software.
+
 **rdariopv/rdariopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Banco Economico SA ![logo](https://github.com/user-attachments/assets/40610b38-bed0-4c5c-af70-f7558d694b3b) .
 - 🌱 I’m currently learning ...
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
