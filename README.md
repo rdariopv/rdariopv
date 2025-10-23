@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm RDario PV</h1>
 <!--
-## Hi👋, I'm RDario PV
+## Hi👋, I'm RDario PV — Software Engineer
 **rdariopv/rdariopv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
