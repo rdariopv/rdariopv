@@ -9,14 +9,6 @@ I love turning ideas into efficient, maintainable software.
 
 Here are some ideas to get you started: -->
 <!--
-### 💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
@@ -61,3 +53,23 @@ Here are some ideas to get you started: -->
 ![Design Pattern](https://img.shields.io/badge/Design_Pattern-4B0082?logo=dotnet&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-008000?logo=codeforces&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00BFAE?logo=microsoft-azure&logoColor=white)
+
+---
+
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+### 🧩 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
+
