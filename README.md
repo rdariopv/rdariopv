@@ -58,6 +58,6 @@ Here are some ideas to get you started: -->
 ### 🏛️ Software Architecture & Patterns
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3A7CA5?logo=architecture&logoColor=white)
-![Design Pattern](https://img.shields.io/badge/Observer_Pattern-4B0082?logo=dotnet&logoColor=white)
+![Design Pattern](https://img.shields.io/badge/Design_Pattern-4B0082?logo=dotnet&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-008000?logo=codeforces&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00BFAE?logo=microsoft-azure&logoColor=white)
